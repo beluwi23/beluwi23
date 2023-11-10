@@ -1,7 +1,10 @@
 
 ### Hi, I'm Wilson, Welcome To My Portfolio!  👋
-
----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+<p>Professional computer, with over 10 years’ experience in the information technology industry. Particularly interested in the areas of networking, technical support, troubleshooting, technologies (Cloud,  OS Windows, Linux, VMware, Nutanix), administration, implementation, infrastructure services, and defining the implementation of large volumes of VMs, and workstations.</p>
+<p>Versatile, team spirit, concerned with a job well done, Resourcefulness, rigor and thoroughness, interest in technology, ability to work quickly and on a variety of projects, sense of humor, independence, and teamwork.</p>
+<p></p>
+-------------------------------------------------------------------------------------------------------------------------------------------
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -16,22 +19,22 @@
 
 
 
-<p>*Azure Cloud</> 
+<p>✨Azure Cloud</> 
 <p>*Executing PowerShell scripts for automation </p> 
 <p>*Creating Azure Resources with Terraform via Azure CLI </p>
 <p>*Virtual Machines Automation - Deployment Azure ARM Templates </p>
 <p>*Create Users and Manage Permissions Using Groups and Policies in AAD</p>
 <p> *Run pipelines on AzureDevops as needed in case of failure with the applications, requested by the developer or application’s manager</p>
 
-<p>*DevOps Projects</p>
+<p>👯DevOps Projects</p>
 
 
 <p>*Run PowerBi pipelines on AzureDevops as needed in case of failed applications, requested by the developer or application’s manager </p>
 <p> *Execution of ci/cd pipelines on Jenkins tool and Rancher Platform for updating the company's GSKED application
 Supporting common container issues when the deployment experienced problems in Dev and Production environments via Rancher Platform</p>
 <p>*Deploying Google Kubernetes Engine Clusters from Cloud Shell, I used the command line to build GKE clusters. To inspect the kubeconfig file, and to use kubectl to manipulate the cluster. </p>
-<p>*Python </p>
-<p>*Certifications </p>
+<p>✨Python </p>
+<p>📫Certifications </p>
 
 <p class=""> <a href="https://www.coursera.org/account/accomplishments/verify/9MYBZYQBAMJ6?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course">Google Cloud Fundamentals: Core Infrastructure</a></p>
 <p class=""> <a href="https://app.thecloudbootcamp.com/certificates/qoendop3kk">Intensive Cloud Computing Hands-on Training</a></p>
