@@ -13,7 +13,8 @@
 <p>Daily tasks on AWS Cloud</> 
 <p>*Launch an EC2 Instance in a VPC with Terraform</p>
 <p>*Create and modify Resources with Terraform via CLI</p>
-<p>*Create a Static Website Using Amazon S3</p>
+<p>*Create a Static Website Using Amazon S3</p> 
+<p class=""> <a href="https://github.com/beluwi23/mywebsite">AWS Cloud Resume Project</a></p>
 <p>*Create Users and Manage Permissions Using Groups and Policies in IAM</p>
 <p>*Supporting common issues.</p>
 
