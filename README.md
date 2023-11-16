@@ -9,7 +9,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 ☁ Cloud Projects
-<p class=""> <a href="https://github.com/beluwi23/mywebsite">AWS Cloud Resume Project</a></p>
+<p class=""> <a href="https://github.com/wilsonbetancurth/wilsonbetancurth.github.io">AWS Cloud Resume Project</a></p>
 <p>*Involved in the process of migrating a web application to Google Cloud Platform and S3 AWS platform with Phyton, Terraform, and Kubernetes cluster services, which made it possible to guarantee stability and performance to contribute to the SLA (service level agreement) in the event of application failure.</p>
 <p>Daily tasks on AWS Cloud</> 
 <p>*Launch an EC2 Instance in a VPC with Terraform</p>
